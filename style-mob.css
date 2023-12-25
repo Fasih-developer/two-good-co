@@ -1,0 +1,238 @@
+.links{
+    display: none;
+}
+.navbar{
+    height: 25vw;
+}
+.space{
+    display: none;
+}
+.logo{
+    height: 21vw;
+    width: 21vw;
+    top: 1.3vw;
+    left: 3.3vw;
+}
+.icons{
+    right: 0vw;
+    top: 1.5vw;
+    height: 10vw;
+    width: 41vw;
+    font-size: 4vw;
+}
+.page-1{
+    height: 70vw;
+}
+.change h1{
+    font-size: 15vw;
+    padding-top: 6vw;
+}
+.course{
+    width: 89vw;
+}
+.course h1{
+    font-size: 15vw;
+    padding-bottom: 9.5vw;
+}
+.video{
+    height: 55vw;
+    align-items: flex-start;
+}
+.play{
+   display: none;
+}
+.gap{
+    height:10vw;
+}
+.page-2{
+    height: 250vh;
+    width: 100vw;
+    flex-wrap: wrap;
+}
+.shop{
+    height: 78vh;
+    width: 95%;
+}
+.tags{
+    min-height: 12vw;
+    width: 68%;
+    font-size: 2.8vw;
+}
+#tag2{
+    width: 72%;
+}
+.dot{
+    font-size: 7vw;
+    margin-top: -3.5vw;
+}
+.believe{
+    height: 80vw;
+    margin-top: 2vw;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.bel-h2{
+width: 100%;
+}
+.believe h2{
+    width: 100%;
+    line-height: 8vw;
+    font-size: 7.5vw;
+    text-align: center;
+}
+.bel-p{
+    width: 100%;
+    height: 45%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.bel-p p{
+    width: 90%;
+    text-transform: none;
+    font-size: 3.8vw;
+    line-height: 4.4vw;
+    text-align: center;
+}
+
+
+
+.page-3{
+    margin-top: 20vw;
+}
+.products{
+    height: 55vw;
+}
+.products img{
+    height: 66%;
+    width: 66%;
+}
+.products p{
+    font-family: var(--font2);
+    font-size: 2.5vw;
+    text-align: center;
+    width: 70%;
+}
+.rate {
+    margin-top: -3vw;
+    font-size: 2.5vw;
+}
+#product2 img{
+    height: 62%;
+    width: 62%;
+}
+
+
+
+
+.testamonial{
+    height: 90vw;
+}
+.test-q{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    margin-left: 0;
+    justify-self: center;
+}
+.test-q h1{
+    width: 100%;
+    text-align: center;
+    font-size: 5.8vw;
+    line-height: 5.8vw;
+    word-spacing: -.1vw;
+    letter-spacing: -.2vw;
+    margin-left: 0;
+}
+.test-button{
+    padding-top: 6vw;
+}
+.test-button button{
+    height: 12vw;
+    width: 66vw;
+    font-size: 3vw;
+}
+.test-text{
+    height: 15vw;
+    padding-top: 4vw;
+}
+.test-text p{
+    width: 56%;
+    font-size: 3.5vw;
+    text-align: center;
+    line-height: 4.5vw;
+}
+
+
+
+
+.impact{
+    height: 130vw;
+    flex-wrap: wrap;
+    margin-top: 5vw;
+}
+.impact-img{
+    width: 48%;
+    height: 40%;
+}
+.impact-text{
+    width: 81%;
+    height: 50%;
+}
+.impact-text h3{
+    text-align: left;
+    font-size: 7vw;
+    font-family: var(--font1);
+}
+.impact-p{
+    height: 70%;
+    width:100%;
+}
+.impact-p p{
+    font-size: 3vw;
+    font-family: var(--font2);
+    text-transform: none;
+    line-height: 3.1vw;
+}
+#text-p {
+    font-size: 2vw;
+    font-family: var(--font3);
+    text-decoration: underline;
+}
+.gap1{
+    height: 1vw;
+}
+.footer{
+    height: 16vw;
+    width: 100vw;
+}
+.foot{
+    width: 95vw;
+    justify-content: flex-start;
+}
+.foot img{
+    margin-top: 1vw;
+    height:13vw;
+    width:13vw;
+}
+.foot-p{
+    width: 75%;
+    margin-left: 5vw;
+    margin-top: -12vw;
+    display: flex;
+
+    justify-content: space-around;
+    padding-left: 4vw;
+    padding-right: 4vw;
+}
+.foot-p p{
+    font-size: 2vw;
+    font-family: var(--font2);
+}
+.foot-msg{
+    display: none;
+}
+
+.cursor{
+display: none;
+}
